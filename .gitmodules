@@ -1,0 +1,3 @@
+[submodule "dotconf"]
+	path = dotconf
+	url = https://github.com/mostlymax/dotconf.git
